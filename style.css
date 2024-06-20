@@ -2,23 +2,23 @@
 
 @media screen and (max-width:275px){  
 div.rlex-area { width: 99.9%; ; height: 185vh; }
-div.親1 { width: 99%; height: 20vh; margin: -10% 0%; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
+div.親1 { width: 99%; height: 18.5vh; margin: -10% 0%; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
 div.親2 { width: 99%; height: 130vh; text-align: center; background-image: url("PNG megane 1.png"); background-size: 99.5% 99.5%; background-repeat: no-repeat; }
 div.子 { width: 99%; height: 129.9vh; display:display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }
 div.textA { box-sizing: border-box; width: 70%; margin: 5% 2%; padding: 2% 0%; } 
-div.text1 { box-sizing: border-box; width: 99.9%; height: 64.5vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: serif; letter-spacing: 0.1em; line-height: 2; font-weight: 600; text-align: center; }
-div.text2 { box-sizing: border-box; width: 99.9%; height: 64.5vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: serif; letter-spacing: 0.125em; line-height: 2; font-weight: 600; text-align: center;  }	
+div.text1 { box-sizing: border-box; width: 99.9%; height: 64.5vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: serif; letter-spacing: 0.1em; line-height: 3.5; font-weight: 630; text-align: center; }
+div.text2 { box-sizing: border-box; width: 99.9%; height: 64.5vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: serif; letter-spacing: 0.125em; line-height: 3.5; font-weight: 630; text-align: center;  }	
 div.footer1 { width: 97%; height: 97%; background-image: url("profile footer dejima 1.jpg"); background-size:105% 100%; background-repeat: no-repeat; }	
 }
 
 @media screen and (min-width:276px) and (max-width:500px){
 div.frex-area { width: 99.9%; height: 185vh; }
-div.親1 { width: 99%; height: 20vh;  margin: -10% 0%; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
+div.親1 { width: 99%; height: 18.5vh;  margin: -10% 0%; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
 div.親2 { width: 99%; height: 130vh; text-align: center; background-image: url("PNG megane 1.png"); background-size: 99.5% 99.5%; background-repeat: no-repeat; }
 div.子 { width: 99%; height: 129.9vh; display:display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }
 div.textA { box-sizing: border-box; width: 70%; margin: 5% 2%; padding: 2% 0%; } 
-div.text1 { box-sizing: border-box; width: 99.9%; height: 64.5vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: serif; letter-spacing: 0.125em; line-height: 2; font-weight: 600; text-align: center; }
-div.text2 { box-sizing: border-box; width: 99.9%; height: 64.5vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: serif; letter-spacing: 0.125em; line-height: 2; font-weight: 600; text-align: center; }	
+div.text1 { box-sizing: border-box; width: 99.9%; height: 64.5vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: serif; letter-spacing: 0.125em; line-height: 3.5; font-weight: 630; text-align: center; }
+div.text2 { box-sizing: border-box; width: 99.9%; height: 64.5vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: serif; letter-spacing: 0.125em; line-height: 3.5; font-weight: 630; text-align: center; }	
 div.footer1 { width: 97%; height: 97%; background-image: url("profile footer dejima 1.jpg"); background-size:105% 100%; background-repeat: no-repeat; }	
 }
 
@@ -28,7 +28,7 @@ div.親1 { width: 75vw; height: 45vh; margin: -2.5% 0%; background-image: url("p
 div.親2 { flex-wrap:wrap; width: 75vw; height: 100vh; display: flex; text-align: center; background-image: url("profile main megane 1.jpeg"); background-size:100% 100%; background-repeat: no-repeat; position: relative; }
 div.子 { width: 99%;height: 99.9vh; display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }
 div.textA { box-sizing: border-box; width: 70%; margin: 5% 2%; padding: 2% 0%; } 
-div.text1 { box-sizing: border-box; width: 47%; height: 90vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-size: 125%; font-family: serif; letter-spacing: 0.125em; line-height: 2.85; font-weight: 650; text-align: center; }
-div.text2 { box-sizing: border-box; width: 47%; height: 90vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-size: 125%; font-family: serif; letter-spacing: 0.125em; line-height: 2.85; font-weight: 650; text-align: center; }	
+div.text1 { box-sizing: border-box; width: 47%; height: 90vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-size: 125%; font-family: serif; letter-spacing: 0.125em; line-height: 2.5; font-weight: 650; text-align: center; }
+div.text2 { box-sizing: border-box; width: 47%; height: 90vh; display: flex; flex-direction: column; justify-content: center; align-items: center; font-size: 125%; font-family: serif; letter-spacing: 0.125em; line-height: 2.5; font-weight: 650; text-align: center; }	
 div.footer1 { width: 75vh; height: 97%; background-image: url("profile footer dejima 1.jpg"); background-size:105% 100%; background-repeat: no-repeat; }	   
 }
